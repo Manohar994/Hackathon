@@ -58,3 +58,6 @@ Seamless tracking of medical and financial information
 Enhanced communication between patients, doctors, and administrative staff
 
 This platform is ideal for government hospitals aiming to modernize their data management and improve service efficiency.
+
+
+Here is the video link: https://www.loom.com/share/045a52f9d8db4373bdaba6d2292ad609?sid=ccd9cca8-7cad-49f9-9b7c-89d857ad0b3f
